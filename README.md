@@ -1,17 +1,17 @@
 1. Crie a função python def taboada(n):
 Apresenta a taboada do inteiro n, onde 1 <= n <= 9, que reproduz a taboada do número `n` na forma (exemplo para `n` = 7):
 #Taboada do 7
-# 0 x  7 =  0
-# 1 x  7 =  7
-# 2 x  7 = 14
-# 3 x  7 = 21
-# 4 x  7 = 28
-# 5 x  7 = 35
-# 6 x  7 = 42
-# 7 x  7 = 49
-# 8 x  7 = 56
-# 9 x  7 = 63
-# 10 x  7 = 70
+ 0 x  7 =  0
+ 1 x  7 =  7
+ 2 x  7 = 14
+ 3 x  7 = 21
+ 4 x  7 = 28
+ 5 x  7 = 35
+ 6 x  7 = 42
+ 7 x  7 = 49
+ 8 x  7 = 56
+ 9 x  7 = 63
+ 10 x  7 = 70
 
 2. Implemente uma função que receba um valor `n` inteiro e imprima até a n-ésima linha da seguinte forma:
   1
