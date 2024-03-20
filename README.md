@@ -14,18 +14,18 @@ Apresenta a taboada do inteiro n, onde 1 <= n <= 9, que reproduz a taboada do n�
 # 10 x  7 = 70
 
 2. Implemente uma função que receba um valor `n` inteiro e imprima até a n-ésima linha da seguinte forma:
- #   1
- #   2   2
- #   3   3   3
- #   :   :   :
- #   n   n   n   n   n   n  ... n
+  1
+  2   2
+  3   3   3
+  :   :   :
+  n   n   n   n   n   n  ... n
 
 3. Implemente uma função que receba um valor `n` inteiro e imprima até a n-ésima linha da seguinte forma:
-#    1
-#    1   2
-#    1   2   3
-#    :   :
-#    1   2   3 ... n
+ 1
+ 1   2
+ 1   2   3
+ :   :
+ 1   2   3 ... n
 
 4. Implemente uma função que receba um valor em segundos e imprima o correspondente em horas, minutos e segundos. Por exemplo, se a função receber como argumento 4814, imprimirá 1 hora(s) 20 minuto(s) e 14 segundo(s).
 
